@@ -260,6 +260,256 @@ _50 days challenge on Modern Layouts using CSS Grid._
 
 ```
 ✅ Use CSS Grid Line Based Placement
-✅ Use a 12-Column grid
+✅ Use a 12-column grid
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 26/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-26/main/asstes/screenshot/layout-26-screenshot.png)
+
+```
+✅ Use ASCII ART METHOD of CSS Grid
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+❌ No Absolute or Relative positioning
+```
+
+## Modern Layouts - 27/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-27/main/assets/screenshot/layout-27-screenshot.png)
+
+```
+✅ Use Line Based Placement
+✅ Responsive to each breakpoint
+✅ Use Single Column grid
+❌ No Absolute or Relative positioning
+```
+
+## Modern Layouts - 28/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-28/main/assets/screenshot/layout-28-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use a 12-column grid
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 29/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-29/main/assets/screenshot/layout-29-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 30/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-30/main/assets/screenshot/layout-30-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use the power of Grid's Auto Placement Algorithm.
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 31/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-31/main/asstes/screenshot/layout-31-screenshot.png)
+
+```
+✅ Use FlexBox
+✅ Responsive to each breakpoint
+❌ No Absolute or Relative positioning
+```
+
+## Modern Layouts - 32/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-32/main/assets/screenshot/layout-32-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use 12-column grid
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 33/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-33/main/assets/screenshot/layout-33-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use 12-column grid
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 34/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-34/main/assets/screenshot/layout-34-screenshot.png)
+
+```
+✅ Use Single Column Grid
+✅ FlexBox Enriched Layout
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 35/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-35/main/asstes/screenshot/layout-35-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 36/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-36/main/assets/screenshot/layout-38-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 37/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-37/main/assets/screenshot/layout-37-screenshot.png)
+
+```
+✅ Use Line Based Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 38/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-38/main/assets/screenshot/layout-38-screenshot.png)
+
+```
+✅ Use Line Based Placement
+✅ Responsive to each breakpoint
+✅ Use 12-column grid
+```
+
+## Modern Layouts - 39/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-39/main/assets/screenshot/layout-39-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 40/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-40/main/assets/screenshot/layout-40-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 41/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-41/main/assets/screenshot/Layout-41-screenshot.png)
+
+```
+✅ Use FlexBox
+✅ Responsive to each breakpoint
+❌ No Absolute or Relative positioning
+```
+
+## Modern Layouts - 42/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-42/main/assets/screenshot/layout-42-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use the power of Grid's Auto Placement Algorithm.
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 43/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-43/main/assets/screenshot/layout-43-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 44/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-44/main/assets/screenshot/layout-44-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use a 12-column Grid
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 45/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-45/main/assets/screenshot/layout-45-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 46/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-46/main/assets/screenshot/layout-46-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use a 12-Column Grid.
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 47/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-47/main/assets/screenshot/layout-47-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 48/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-48/main/assets/screenshot/layout-48-screenshot.png)
+
+```
+✅ Use Named Grid Lines Placement
+✅ Responsive to each breakpoint
+✅ Use a 12-column grid
+```
+
+## Modern Layouts - 49/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-49/main/assets/screenshot/layout-49-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use a 12-Column grid.
+✅ Responsive to each breakpoint
+```
+
+## Modern Layouts - 50/50 (#Made-In-CSS-Grid)
+
+![screenshot](https://raw.githubusercontent.com/Preethi-Dev/Modern-Layout-50/main/assets/screenshot/layout-50-screenshot.png)
+
+```
+✅ Use CSS Grid Line Based Placement
+✅ Use a 12-Column Grid.
 ✅ Responsive to each breakpoint
 ```
